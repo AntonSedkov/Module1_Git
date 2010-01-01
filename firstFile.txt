@@ -2,9 +2,9 @@ one
 two
 three
 four
-five
-six
+five = rabbit
+six = frog
 seven
-eight
-nine
+eight = milk
+nine = water
 ten

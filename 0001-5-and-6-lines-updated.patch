@@ -1,0 +1,27 @@
+From 0ebab5b28bb6a1875de80097d9aab3430bd02593 Mon Sep 17 00:00:00 2001
+From: Anton Sedkov <asedkov@gmail.com>
+Date: Sat, 26 Dec 2020 11:36:06 +0300
+Subject: [PATCH] 5 and 6 lines updated
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 9adae25..ea35273 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -2,8 +2,8 @@ one
+ two
+ three
+ four
+-five
+-six
++five = rabbit
++six = frog
+ seven
+ eight
+ nine
+-- 
+2.26.1.windows.1
+
