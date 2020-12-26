@@ -1,5 +1,5 @@
-uno
-dos
+uno = odin
+dos = dwa
 tres
 cuatro
 cinco
