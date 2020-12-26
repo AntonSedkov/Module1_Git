@@ -1,6 +1,6 @@
 one 
-two
-three
+two = star
+three = rain
 four
 five = rabbit
 six = frog
