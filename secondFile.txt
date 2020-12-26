@@ -1,5 +1,7 @@
 uno = sun
 dos = moon
+uno = odin
+dos = dwa
 tres
 cuatro
 cinco
