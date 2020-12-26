@@ -1,5 +1,5 @@
-uno
-dos
+uno = sun
+dos = moon
 tres
 cuatro
 cinco
